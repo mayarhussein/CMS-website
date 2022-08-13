@@ -1,0 +1,11 @@
+mayoura admin12
+lilooz lilly
+kimmy kim12
+marr mar12
+
+
+Regular Expressions:
+^()$   between ^ and $ 
+^(index)$ $1.php [NC,L]     NC: No case senstive
+                       L: Last tHing
+                       every index is replaced by index.php
